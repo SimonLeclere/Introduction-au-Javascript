@@ -140,7 +140,7 @@ Elle se note avec des crochets `[élément1, élément2, ...]` et possède ses p
 - **undefined** : Si on ne défini pas une variable ou bien qu'elle n'existe pas, celle-ci vaudra `undefined`. Cela peut être voulu ou bien source d'erreur. Exemple :
     ```js
     let a; // a vaut undefined
-    let a = a + b // Cette opération retournera une erreur car a et b ne sont pas définies
+    let a = a + b // Cette opération retournera une erreur car a et b ne sont pas définis
     ```
     > Il ne faut pas confondre `undefined` et `null`. Même si ils sont semblables leur utilisation n'est pas totalement la même.
 
