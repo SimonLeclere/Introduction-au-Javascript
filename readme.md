@@ -84,6 +84,7 @@ En javascript et comme dans tous les languages de programmation, le nom des él�
     ```
 
 Pour en savoir plus sur les conventions de nommenclature, vous pouvez vous renseigner grâce aux liens ci-dessous :
+
 [Lien 1 - Anglais](https://hackernoon.com/the-art-of-naming-variables-52f44de00aad)
 
 [Lien 2 - Français](http://snowdream.github.io/javascript-style-guide/javascript-style-guide/fr/nantions.html)
