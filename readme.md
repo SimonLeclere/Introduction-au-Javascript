@@ -177,7 +177,7 @@ Cette fonction, appelée puissance permet d'obtenir la valeur de x à la puissan
 
 #### Appeler une fonction
 
-Pour appeler une fonction, il suffit d'écrire son nom suivi des différents paramètres dans l'ordre entres paranthèses. Pour appeler la fonction définie dans l'exemple ci-dessus avec comme paramètre le chiffre 2, il faudrai donc taper `puissance(2)`. On peut ne pas spécifier le deuxième paramètre  car il est optionnel (voir ci-dessus). L'ensemble des variables déclarées à l'intérieur d'une fonction sont **locales**, c'est à dire qu'on ne peut y accéder qu'à l'intérieur du bloc de code de la fonction. En dehors de la fonction ces variables n'existent tous simplement pas.
+Pour appeler une fonction, il suffit d'écrire son nom suivi des différents paramètres dans l'ordre entres parenthèses. Pour appeler la fonction définie dans l'exemple ci-dessus avec comme paramètre le chiffre 2, il faudrai donc taper `puissance(2)`. On peut ne pas spécifier le deuxième paramètre  car il est optionnel (voir ci-dessus). L'ensemble des variables déclarées à l'intérieur d'une fonction sont **locales**, c'est à dire qu'on ne peut y accéder qu'à l'intérieur du bloc de code de la fonction. En dehors de la fonction ces variables n'existent tous simplement pas.
 > Les variables locales s'opposent aux variables **globales**, qui sont accessibles partout dans le programme.
 
 Il est tout à fait possible de déclarer une fonction à l'intérieur même d'une fonction ou bien d'appeler une fonction à l'intérieur d'elle même. Ces pratiques peuvent provoquer des *boucles récursives*, qui peuvent être source de bugs.
