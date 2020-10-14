@@ -109,9 +109,9 @@ En Javascript, la gestion des variables est automatique, c'est à dire que lors 
 
 ainsi on peut écrire le code suivant :
 ```js
-    x = 14; // x est une variable contenant un nombre
-    y = "Toto"; // y est une variable contenant une chaine de caractère
-    z = [1 , 2, "3"]; // z est une variable contenant une liste
+    let x = 14; // x est une variable contenant un nombre
+    let y = "Hello world!"; // y est une variable contenant une chaine de caractère
+    let z = [1 , 2, "3"]; // z est une variable contenant une liste
 ```
 
 #### Différentes manières de déclarer une variable
