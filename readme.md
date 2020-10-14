@@ -28,6 +28,12 @@ Peut aussi s'écrire :
 function pair(x) { if(x % 2 === 0) { return true; } else { return false; } }
 ```
 
+Ou encore :
+
+```js
+let pair = (x) =>  return x % 2 === 0
+```
+
 On peut en théorie écrire tout un programme sur une ligne mais par soucis de compréhension et de lisibilité, la plupart des développeurs respectent les règles d'indentation communes à tous les languages.
 
 Notez qu'ici : 
