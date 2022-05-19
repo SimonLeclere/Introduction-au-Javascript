@@ -325,7 +325,7 @@ Simon.
 
 ## Liens utiles
 
-NodeJS - Client côté serveur qui supporte de nombreux modules et est extrêmement polyvalent : https://nodejs.org/fr/
+NodeJS - Plateforme de développement Javascript qui supporte de nombreux modules et est extrêmement polyvalente : https://nodejs.org/fr/
 
 StackOverflow - Un forum ou des passionnés répondront à toutes vos questions et vous aideront dans vos projets : https://stackoverflow.com/
 
